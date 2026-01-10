@@ -1,12 +1,43 @@
-## team 대영희
+# SSABAP (싸밥)
+## 1. 프로젝트 소개 
+- 기획 배경 
 
-<!--
+## 2. 프로젝트 개요
+- 기간
+- 인원
+- 대상
 
-**Here are some ideas to get you started:**
+## 3. 팀원 소개
+- 팀원
+- 맡은 역할
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 4. 기술 스택
+- Frontend
+- Backend
+
+## 5. UI/UX 설계 (Figma)
+
+## 6. DB 설계
+
+## 7. API 설계
+
+## 8. Article (기술적 도전 & 해결)
+
+## 9. 핵심 기능 소개 (GIF)
+
+## 10. 시연 영상 & 발표 자료
+
+## 11. 프로젝트 결과
+- 수상
+
+## 12. 실행 방법
+뭐 예를 들면
+
+```
+# frontend
+npm install
+npm run dev
+```
+이런식으로 각 폴더(우린 레포 3개)별로 실행하는 명령어 안내
+
+
